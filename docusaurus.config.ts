@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Charak Samhita',
   tagline: 'Ayurveda is cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -79,7 +79,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/ayurveda-social-card.png',
     colorMode: {
       respectPrefersColorScheme: true,
     },
@@ -98,7 +98,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/nisit/charak-samhita',
           label: 'GitHub',
           position: 'right',
         },
@@ -142,7 +142,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/nisit/charak-samhita',
             },
           ],
         },
@@ -154,10 +154,6 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
-  plugins: [
-    './src/plugins/tailwind-config.js', // Path to your custom plugin
-    // ... other plugins
-  ],
 };
 
 export default config;

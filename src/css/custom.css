@@ -29,10 +29,6 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 .footer-section {
 	background: #78350f;
 	color: #fef3c7;

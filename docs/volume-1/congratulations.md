@@ -8,7 +8,7 @@ You have just learned the **basics of Docusaurus** and made some changes to the 
 
 Docusaurus has **much more to offer**!
 
-Have **5 more minutes**? Take a look at **[versioning](../volume-2/manage-docs-versions.md)** and **[i18n](../volume-2/translate-your-site.md)**.
+Have **5 more minutes**? Take a look at **[versioning](../volume-2/manage-docs-versions)** and **[i18n](../volume-2/translate-your-site)**.
 
 Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
 

@@ -11,7 +11,7 @@ export default function Home() {
       description: "The foundational text of Ayurveda covering Sutrasthana (general principles) and Nidanasthana (pathology).",
       chapters: 7,
       pages: 621,
-      url: "/docs/charak-samhita-vol-1/intro",
+      url: "/docs/volume-1",
       featured: true,
       category: "Classical Texts"
     },
@@ -22,7 +22,7 @@ export default function Home() {
       description: "Continuation covering Vimanasthana (specific determination), Sharirasthana (anatomy), and therapeutic sections.",
       chapters: 7,
       pages: 678,
-      url: "/docs/charak-samhita-vol-2/intro",
+      url: "/docs/valume-2/volume-2",
       featured: true,
       category: "Classical Texts"
     }

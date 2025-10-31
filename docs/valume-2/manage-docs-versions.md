@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+slug: /volume-2/manage-docs-versions
 ---
 
 # Manage Docs Versions

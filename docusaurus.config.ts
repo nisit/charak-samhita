@@ -15,16 +15,24 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://nisit.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/charak-samhita/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Sagacitas Technologies Private Limited', // Usually your GitHub org/user name.
-  projectName: 'Health and Wellness', // Usually your repo name.
+  organizationName: 'nisit', // Usually your GitHub org/user name.
+  projectName: 'charak-samhita', // Usually your repo name.
+  deploymentBranch: 'gh-pages', // default branch for deployment
   trailingSlash: false,
+  customFields: {
+    // Put your custom environment here
+    USE_SSH: true,
+    CURRENT_BRANCH: 'main',
+    GIT_USER_NAME: 'nisit',
+    GIT_USER_EMAIL: 'nisitkumar@gmail.com',
+  },
 
   onBrokenLinks: 'throw',
 

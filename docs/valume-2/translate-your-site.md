@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+slug: /volume-2/translate-your-site
 ---
 
 # Translate your site

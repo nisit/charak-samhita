@@ -10296,7 +10296,7 @@ in **V covered in all places**: administer immediately the carmination for vata 
 
 The use of all rasayana formulations is good, such as silajit or guggulu with milk.
 
- Or, use Chyavan Prash regularly, keeping on milk diet, or the eleven formulations listed in [rasayana chapter](ci-1.1)should be used with wholesome diet.(see rasayana section)
+ Or, use Chyavan Prash regularly, keeping on milk diet, or the eleven formulations listed in [rasayana chapter] ci-1.1 should be used with wholesome diet.(see rasayana section)
 
 in **V covered by Apana**: the entire remedy consists of appetising, astringent, carminative for wind and cleansing of bowels.
 
